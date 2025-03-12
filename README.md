@@ -26,10 +26,10 @@ Unreal Engine 5.4
 
 GAME INFORMATION:
   
-**STORYLINE  **
+STORYLINE  
 The story follows a small black cat that unfortunately passes away. After realizing its fate, the cat's soul is transported to the Cat Planet—a place where all cats go after their passing. Here, the cat must adapt to a new life without its owner and overcome various challenges to settle into this new existence.
 
-**GAME GENRE  **
+GAME GENRE  
 Platformer: Focuses on movement and obstacle dodging.  
 Party Game: Designed for entertainment and simplicity.  
 Puzzle: Includes a level with puzzle-solving elements.  
