@@ -17,6 +17,7 @@ Trần Thị Thủy – B22DCPT270: 2D Game Artist
 
 
 TOOLS USED:  
+
 Adobe Photoshop  
 Adobe Illustrator  
 Autodesk Maya  
@@ -25,10 +26,10 @@ Unreal Engine 5.4
 
 GAME INFORMATION:
   
-STORYLINE  
+**STORYLINE  **
 The story follows a small black cat that unfortunately passes away. After realizing its fate, the cat's soul is transported to the Cat Planet—a place where all cats go after their passing. Here, the cat must adapt to a new life without its owner and overcome various challenges to settle into this new existence.
 
-GAME GENRE  
+**GAME GENRE  **
 Platformer: Focuses on movement and obstacle dodging.  
 Party Game: Designed for entertainment and simplicity.  
 Puzzle: Includes a level with puzzle-solving elements.  
@@ -43,57 +44,57 @@ Space: Jump (can be combined with movement keys).
 Mouse movement: Adjusts the camera angle.  
 
 LEVELS  
-1. I’m Really a Cat
-(Concept Map: Volcano / Underworld)
+1. I’m Really a Cat  
+(Concept Map: Volcano / Underworld)  
 
 Time of Day: Unknown (as it is in the underworld).
-
-Story:
+  
+Story:  
 After awakening in the spirit realm, the little cat finds itself in the underworld, surrounded by rocky terrain and molten lava. Terrified, the cat trembles, but isn’t jumping and running a cat’s natural skill?
 Setting fear aside, the cat decides to move forward, overcoming obstacles to climb the pillar that leads back to the surface.
 
-Mechanics:
+Mechanics:  
 The player must complete three challenges:
+  
+Jump across floating rock platforms.  
+Run along a winding path.  
+Climb the pillar to reach the goal.  
+The player controls the cat to overcome these obstacles while avoiding hazards. If the player falls into the lava or collides with an object, the character is considered "dead," and the level must be restarted.  
+  
+Music: Dark and intense.  
 
-Jump across floating rock platforms.
-Run along a winding path.
-Climb the pillar to reach the goal.
-The player controls the cat to overcome these obstacles while avoiding hazards. If the player falls into the lava or collides with an object, the character is considered "dead," and the level must be restarted.
-
-Music: Dark and intense.
-
-2. Purr-fect Escape
+2. Purr-fect Escape  
 (Concept Map: Farm / Surface World)
 
-Time of Day: Morning.
+Time of Day: Morning.  
 
-Story:
+Story:  
 After escaping from the underworld, the little cat finds itself on the surface. However, before it can celebrate, it realizes it is trapped inside a maze with complex pathways. This time, the cat must navigate the maze and find a way out.
 
-Mechanics:
+Mechanics:  
 
-The player explores the maze, searching for the exit.
-Small details will help the player remember which paths they have already taken.
-Upon escaping the maze, the player guides the cat to a house, leading to the next stage—heaven.
-Music: Cheerful and lighthearted.
+The player explores the maze, searching for the exit.  
+Small details will help the player remember which paths they have already taken.  
+Upon escaping the maze, the player guides the cat to a house, leading to the next stage—heaven.  
+Music: Cheerful and lighthearted.  
+  
+3. Heavenly Paws  
+(Concept Map: Floating Island / Heaven)  
 
-3. Heavenly Paws
-(Concept Map: Floating Island / Heaven)
+Time of Day: Morning.  
 
-Time of Day: Morning.
+Story:  
+After entering the house in the previous level, the cat is transported to a floating island. Looking back, there is no way to return. The only option is to move forward to avoid being stranded in this unknown place.  
 
-Story:
-After entering the house in the previous level, the cat is transported to a floating island. Looking back, there is no way to return. The only option is to move forward to avoid being stranded in this unknown place.
+Mechanics:  
+The player must overcome three challenges:  
 
-Mechanics:
-The player must overcome three challenges:
+Jump across moving floating bricks.  
+Successfully land on a moving conveyor belt.  
+Navigate through moving pillars (which can disorient and push the player slightly—if not careful, they may fall).  
+The player must guide the cat through these challenges to reach the goal. If the character falls off any surface, the level must be restarted.  
 
-Jump across moving floating bricks.
-Successfully land on a moving conveyor belt.
-Navigate through moving pillars (which can disorient and push the player slightly—if not careful, they may fall).
-The player must guide the cat through these challenges to reach the goal. If the character falls off any surface, the level must be restarted.
+Music: Dreamy and soothing.  
 
-Music: Dreamy and soothing.
-
-Enjoy your gaming experience! 🎮✨
+Enjoy your gaming experience! 🎮✨  
 
