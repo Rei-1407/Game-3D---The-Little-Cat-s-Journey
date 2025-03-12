@@ -5,19 +5,19 @@ Clone the project to your computer, then click on the Main.exe file to play.
 Platform Requirement: Windows
 
 ROLES OF PROJECT MEMBERS:
-Giang Hoàng Long – B22DCPT145: Game Producer, Game Developer
-Nguyễn Hoàng Tùng – B22DCPT253: 3D Game Artist
-Bùi Duy Thái – B22DCPT255: 3D Game Artist
-Vũ Thị Hoài – B22DCPT094: Game Designer
-Ngọc Bảo Linh – B22DCPT138: 2D Game Artist
-Trần Thị Thủy – B22DCPT270: 2D Game Artist
+Giang Hoàng Long – B22DCPT145: Game Producer, Game Developer;
+Nguyễn Hoàng Tùng – B22DCPT253: 3D Game Artist;
+Bùi Duy Thái – B22DCPT255: 3D Game Artist;
+Vũ Thị Hoài – B22DCPT094: Game Designer;
+Ngọc Bảo Linh – B22DCPT138: 2D Game Artist;
+Trần Thị Thủy – B22DCPT270: 2D Game Artist;
 
 TOOLS USED:
-Adobe Photoshop
-Adobe Illustrator
-Autodesk Maya
-Adobe Substance Painter
-Unreal Engine 5.4
+Adobe Photoshop;
+Adobe Illustrator;
+Autodesk Maya;
+Adobe Substance Painter;
+Unreal Engine 5.4;
 
 GAME INFORMATION:
 
