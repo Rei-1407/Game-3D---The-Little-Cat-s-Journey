@@ -1,10 +1,10 @@
 # Game-3D---The-Little-Cat-s-Journey
 
-INSTALLATION GUIDE:
-Clone the project to your computer, then click on the Main.exe file to play.
-Platform Requirement: Windows
+INSTALLATION GUIDE:  
+Clone the project to your computer, then click on the Main.exe file to play.  
+Platform Requirement: Windows  
 
-ROLES OF PROJECT MEMBERS:
+ROLES OF PROJECT MEMBERS:  
 Giang Hoàng Long – B22DCPT145: Game Producer, Game Developer  
 Nguyễn Hoàng Tùng – B22DCPT253: 3D Game Artist  
 Bùi Duy Thái – B22DCPT255: 3D Game Artist  
