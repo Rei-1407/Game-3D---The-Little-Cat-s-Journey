@@ -5,19 +5,19 @@ Clone the project to your computer, then click on the Main.exe file to play.
 Platform Requirement: Windows
 
 ROLES OF PROJECT MEMBERS:
-Giang Hoàng Long – B22DCPT145: Game Producer, Game Developer;
-Nguyễn Hoàng Tùng – B22DCPT253: 3D Game Artist;
-Bùi Duy Thái – B22DCPT255: 3D Game Artist;
-Vũ Thị Hoài – B22DCPT094: Game Designer;
-Ngọc Bảo Linh – B22DCPT138: 2D Game Artist;
-Trần Thị Thủy – B22DCPT270: 2D Game Artist;
+Giang Hoàng Long – B22DCPT145: Game Producer, Game Developer  
+Nguyễn Hoàng Tùng – B22DCPT253: 3D Game Artist  
+Bùi Duy Thái – B22DCPT255: 3D Game Artist  
+Vũ Thị Hoài – B22DCPT094: Game Designer  
+Ngọc Bảo Linh – B22DCPT138: 2D Game Artist  
+Trần Thị Thủy – B22DCPT270: 2D Game Artist  
 
 TOOLS USED:
-Adobe Photoshop;
-Adobe Illustrator;
-Autodesk Maya;
-Adobe Substance Painter;
-Unreal Engine 5.4;
+Adobe Photoshop  
+Adobe Illustrator  
+Autodesk Maya  
+Adobe Substance Painter  
+Unreal Engine 5.4  
 
 GAME INFORMATION:
 
@@ -25,18 +25,18 @@ STORYLINE
 The story follows a small black cat that unfortunately passes away. After realizing its fate, the cat's soul is transported to the Cat Planet—a place where all cats go after their passing. Here, the cat must adapt to a new life without its owner and overcome various challenges to settle into this new existence.
 
 GAME GENRE
-Platformer: Focuses on movement and obstacle dodging.
-Party Game: Designed for entertainment and simplicity.
-Puzzle: Includes a level with puzzle-solving elements.
+Platformer: Focuses on movement and obstacle dodging.  
+Party Game: Designed for entertainment and simplicity.  
+Puzzle: Includes a level with puzzle-solving elements.  
 
 CONTROLS
-The player uses the keyboard and mouse to control the character. The specific functions are:
-W: Move forward relative to the camera.
-S: Move backward relative to the camera.
-A: Move left relative to the camera.
-D: Move right relative to the camera.
-Space: Jump (can be combined with movement keys).
-Mouse movement: Adjusts the camera angle.
+The player uses the keyboard and mouse to control the character. The specific functions are:  
+W: Move forward relative to the camera.  
+S: Move backward relative to the camera.  
+A: Move left relative to the camera.  
+D: Move right relative to the camera.  
+Space: Jump (can be combined with movement keys).  
+Mouse movement: Adjusts the camera angle.  
 
 LEVELS
 1. I’m Really a Cat
