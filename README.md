@@ -1,6 +1,6 @@
 # Game-3D---The-Little-Cat-s-Journey
 
-Link video demo playtest: [link] (https://drive.google.com/file/d/1Hb_uxHEAxF8wI3EPRfoizG9X9CfkmxxC/view?usp=sharing#link)
+Link video demo playtest: [link](https://drive.google.com/file/d/1Hb_uxHEAxF8wI3EPRfoizG9X9CfkmxxC/view?usp=sharing)
 
 ## INSTALLATION GUIDE:  
 
