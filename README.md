@@ -2,13 +2,13 @@
 
 Link video demo playtest: https://drive.google.com/file/d/1Hb_uxHEAxF8wI3EPRfoizG9X9CfkmxxC/view?usp=sharing
 
-INSTALLATION GUIDE:  
+## INSTALLATION GUIDE:  
 
 Clone the project to your computer, then click on the Main.exe file to play.  
 Platform Requirement: Windows  
 
 
-ROLES OF PROJECT MEMBERS:  
+## ROLES OF PROJECT MEMBERS:  
 
 Giang Hoàng Long – B22DCPT145: Game Producer, Game Developer  
 Nguyễn Hoàng Tùng – B22DCPT253: 3D Game Artist  
@@ -18,7 +18,7 @@ Ngọc Bảo Linh – B22DCPT138: 2D Game Artist
 Trần Thị Thủy – B22DCPT270: 2D Game Artist  
 
 
-TOOLS USED:  
+## TOOLS USED:  
 
 Adobe Photoshop  
 Adobe Illustrator  
@@ -26,17 +26,17 @@ Autodesk Maya
 Adobe Substance Painter  
 Unreal Engine 5.4  
 
-GAME INFORMATION:
+## GAME INFORMATION:
   
-STORYLINE  
+## STORYLINE  
 The story follows a small black cat that unfortunately passes away. After realizing its fate, the cat's soul is transported to the Cat Planet—a place where all cats go after their passing. Here, the cat must adapt to a new life without its owner and overcome various challenges to settle into this new existence.
 
-GAME GENRE  
+## GAME GENRE  
 Platformer: Focuses on movement and obstacle dodging.  
 Party Game: Designed for entertainment and simplicity.  
 Puzzle: Includes a level with puzzle-solving elements.  
 
-CONTROLS  
+## CONTROLS  
 The player uses the keyboard and mouse to control the character. The specific functions are:  
 W: Move forward relative to the camera.  
 S: Move backward relative to the camera.  
@@ -45,8 +45,8 @@ D: Move right relative to the camera.
 Space: Jump (can be combined with movement keys).  
 Mouse movement: Adjusts the camera angle.  
 
-LEVELS  
-1. I’m Really a Cat  
+## LEVELS  
+## 1. I’m Really a Cat  
 (Concept Map: Volcano / Underworld)  
 
 Time of Day: Unknown (as it is in the underworld).
@@ -65,7 +65,7 @@ The player controls the cat to overcome these obstacles while avoiding hazards. 
   
 Music: Dark and intense.  
 
-2. Purr-fect Escape  
+## 2. Purr-fect Escape  
 (Concept Map: Farm / Surface World)
 
 Time of Day: Morning.  
@@ -80,7 +80,7 @@ Small details will help the player remember which paths they have already taken.
 Upon escaping the maze, the player guides the cat to a house, leading to the next stage—heaven.  
 Music: Cheerful and lighthearted.  
   
-3. Heavenly Paws  
+## 3. Heavenly Paws  
 (Concept Map: Floating Island / Heaven)  
 
 Time of Day: Morning.  
@@ -98,5 +98,5 @@ The player must guide the cat through these challenges to reach the goal. If the
 
 Music: Dreamy and soothing.  
 
-Enjoy your gaming experience! 🎮✨  
+## Enjoy your gaming experience! 🎮✨  
 
